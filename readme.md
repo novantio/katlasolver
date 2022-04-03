@@ -1,6 +1,6 @@
 # for katla solver
 
-go to inspect element and copy these code,, after copy fill with random word.. then run ```getkata()```
+go to inspect element and copy these code,, after copy fill with random word.. then run ```getkata()``` on console
 
 getkata will filter kata for next suggestion
 

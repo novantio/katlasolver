@@ -92,7 +92,7 @@ function getkata() {
     });
 
     //
-    arrsalah = arrsalah.filter((el) => !arrtebak.includes(el));
+    arrsalah = arrsalah.filter((el) => !arrtebak.includes(el)).filter((el) => !arrrandom.includes(el));;
 
     arrsalah.forEach(function(e) {
         var t = '/.*' + e + '.*/i';

@@ -6,12 +6,12 @@ word suggestion for katla,, increase your probability to guessing the word
 > 1. go to inspect element and copy these code,, 
 > 2. after copy fill with random word.. like 'semua'
 > 3. then run ```getkata()``` on console
-getkata will filter kata for next suggestion
-getkata()
+getkata will filter kata for next suggestion,
+getkata() , example result : 
 (9) ['bahwa', 'dakwa', 'fatwa', 'halwa', 'kahwa', 'salwa', 'satwa', 'takwa', 'taqwa']
 
 > 4. try the suggestion, example 'bahwa'  and run ```getkata()``` again.. the suggestion will decrease..
-getkata()
+getkata()  , example result : 
 (6) ['dakwa', 'fatwa', 'salwa', 'satwa', 'takwa', 'taqwa']
 
 > 5. repeat until you got the word

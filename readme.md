@@ -4,7 +4,7 @@ word suggestion for katla,, increase your probability to guessing the word
 
 #step
 > 1. go to inspect element and copy these code,, 
-> 2. after copy fill with random word.. like 'semua'
+> 2. after copy fill with random word.. like 'semua','topik','garda'
 > 3. then run ```getkata()``` on console
 getkata will filter kata for next suggestion,
 getkata() , example result : 
